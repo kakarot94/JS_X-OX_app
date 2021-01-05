@@ -1,6 +1,6 @@
 # simple X-OX app
 
-This is a simple representation of X-O game, also known as Tic Tac Toe.
+This is a simple representation of X-OX game, also known as Tic Tac Toe.
 
 ## Installation
 
